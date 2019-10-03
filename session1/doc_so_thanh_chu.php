@@ -45,11 +45,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $unit = floor($num - $tenth * 10);
         foreach ($array2 as $keyTenth => $valueTenth) {
             if ($tenth == $keyTenth) {
-                echo $valueTenth." ";
+                echo $valueTenth . " ";
             }
         }
-        foreach ($array1 as $keyUnit=> $valueUnit){
-            if ($unit ==$keyUnit){
+        foreach ($array1 as $keyUnit => $valueUnit) {
+            if ($unit == $keyUnit && $unit != 0) {
                 echo $valueUnit;
             }
         }

@@ -15,14 +15,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         case "chia":
             try {
                 if ($secondNumber == 0) {
-                    throw new Exception("math error");
+                    throw new Exception("số thứ 2 không được là số 0");
+                } else {
+                    $result = $firstNumber / $secondNumber;
                 }
-                $result = $firstNumber / $secondNumber;
             } catch (Exception $e) {
                 echo $e->getMessage();
             }
-
-            break;
     }
 
 }
