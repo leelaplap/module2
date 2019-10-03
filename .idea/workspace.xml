@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eabe330-fc2e-4b73-8561-48ec5464be5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session3/Rectangle/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session3/Rectangle/rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session3/QuadraticEquation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session3/StopWatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session3/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/shape.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1/doc_so_thanh_chu.php" beforeDir="false" afterPath="$PROJECT_DIR$/session1/doc_so_thanh_chu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session2/Displays_a_message.php" beforeDir="false" afterPath="$PROJECT_DIR$/session2/Displays_a_message.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1/server_time.php" beforeDir="false" afterPath="$PROJECT_DIR$/session1/server_time.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session3/Rectangle/rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/Rectangle/rectangle.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +59,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Hệ_các_đối_tượng_hình_học.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/codegym_module2/session4/Hệ_các_đối_tượng_hình_học.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Hệ_các_đối_tượng_hình_học.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -71,7 +84,7 @@
       <workItem from="1570046195257" duration="874000" />
       <workItem from="1570047081268" duration="8980000" />
       <workItem from="1570096888750" duration="954000" />
-      <workItem from="1570106790363" duration="1565000" />
+      <workItem from="1570106790363" duration="10128000" />
     </task>
     <servers />
   </component>

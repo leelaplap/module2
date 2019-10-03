@@ -8,8 +8,8 @@
     <title>Thời gian hiện tại </title>
 </head>
 <body>
-<h1> Bây giờ là:
-    <?php echo date('Y-M-d h:m:s'); ?>
+<h1>
+    <?php echo date('\B\â\y \g\i\ờ \l\à Y-m-d H:i:sa'); ?>
 </h1>
 </body>
 </html>
