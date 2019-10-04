@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eabe330-fc2e-4b73-8561-48ec5464be5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session3/QuadraticEquation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session3/StopWatch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session3/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/square.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1/server_time.php" beforeDir="false" afterPath="$PROJECT_DIR$/session1/server_time.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session3/Rectangle/rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/Rectangle/rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/circle.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -84,7 +82,8 @@
       <workItem from="1570046195257" duration="874000" />
       <workItem from="1570047081268" duration="8980000" />
       <workItem from="1570096888750" duration="954000" />
-      <workItem from="1570106790363" duration="10128000" />
+      <workItem from="1570106790363" duration="10504000" />
+      <workItem from="1570151216802" duration="4292000" />
     </task>
     <servers />
   </component>
