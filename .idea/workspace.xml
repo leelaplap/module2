@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eabe330-fc2e-4b73-8561-48ec5464be5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/cylinder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/rectangle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Circle amd Cylinder/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Circle amd Cylinder/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Circle amd Cylinder/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/Hệ_các_đối_tượng_hình_học/circle.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +81,8 @@
       <workItem from="1570047081268" duration="8980000" />
       <workItem from="1570096888750" duration="954000" />
       <workItem from="1570106790363" duration="10504000" />
-      <workItem from="1570151216802" duration="4292000" />
+      <workItem from="1570151216802" duration="5156000" />
+      <workItem from="1570171378588" duration="3157000" />
     </task>
     <servers />
   </component>
