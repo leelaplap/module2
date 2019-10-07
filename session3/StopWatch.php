@@ -1,28 +1,49 @@
 <?php
-class StopWatch {
+
+class StopWatch
+{
     private $startTime;
     private $endTime;
 
-    function __construct($startTime, $endTime)
+    function __construct()
     {
-        $this->startTime = $startTime;
-        $this->endTime = $endTime;
+        $this->startTime;
+        $this->endTime;
     }
 
-    function get_startTime(){
+    function get_startTime()
+    {
         return $this->startTime;
     }
 
-    function get_endTime(){
+    function get_endTime()
+    {
         return $this->endTime;
     }
 
-    function startTime(){
-        $timeNow = date("Y-M-d h-m-s");
-        echo "The time now is: " . $timeNow;
+    function startTime()
+    {
+        $this->startTime = microtime();
     }
 
-    function start(){
+    function stopTime()
+    {
+        $this->endTime = microtime();
+    }
 
+    function getElapsedTime()
+    {
+        echo $this->stopTime() - $this->startTime();
     }
 }
+
+$stopWatch = new StopWatch();
+$number = [];
+for ($i = 0; $i < 10000; $i++) {
+    $number[$i] = rand(1, 10000);
+}
+
+$stopWatch->startTime();
+sort($number);
+$stopWatch->stopTime();
+$stopWatch->getElapsedTime();
