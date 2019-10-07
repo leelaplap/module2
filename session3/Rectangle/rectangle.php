@@ -26,5 +26,15 @@ class Rectangle
         return "Rectangle{" . "width=" . $this->width . ", height=" . $this->height . "}";
     }
 
+    public function always()
+    {
+        for ($i = 0; $i < $this->width; $i++) {
+            for ($j = 0; $j < $this->height; $j++) {
+                echo "*";
+            }
+            echo "<br>";
+        }
+    }
+
 
 }

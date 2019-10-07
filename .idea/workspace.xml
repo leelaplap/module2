@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eabe330-fc2e-4b73-8561-48ec5464be5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session4/point2D_point3D/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session4/point2D_point3D/point2D.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session4/point2D_point3D/point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session1/Display types.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session1/change_the_money.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session1/displayType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session1/firstPrimeNumber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session1/primeNumber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Point and MoveablePoint/MoveablePoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Point and MoveablePoint/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Point and MoveablePoint/point.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session3/Rectangle/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/Rectangle/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session3/Rectangle/rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/Rectangle/rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/point2D_point3D/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/point2D_point3D/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +91,8 @@
       <workItem from="1570106790363" duration="10504000" />
       <workItem from="1570151216802" duration="5156000" />
       <workItem from="1570171378588" duration="5314000" />
+      <workItem from="1570375185762" duration="7423000" />
+      <workItem from="1570410222470" duration="9425000" />
     </task>
     <servers />
   </component>

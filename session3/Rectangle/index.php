@@ -16,3 +16,5 @@ echo $rectangle->height;
 echo $rectangle->getPerimeter();
 echo $rectangle->getArea();
 echo ("Your Rectangle".$rectangle->display());
+echo "<br>";
+$rectangle->always();
