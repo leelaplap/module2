@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eabe330-fc2e-4b73-8561-48ec5464be5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session3/fan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Triangle/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Triangle/Triangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4/Triangle/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session3/StopWatch.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/StopWatch.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session3/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/test.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +86,7 @@
       <workItem from="1570151216802" duration="5156000" />
       <workItem from="1570171378588" duration="5314000" />
       <workItem from="1570375185762" duration="7423000" />
-      <workItem from="1570410222470" duration="14696000" />
+      <workItem from="1570410222470" duration="18684000" />
     </task>
     <servers />
   </component>

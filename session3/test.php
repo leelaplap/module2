@@ -3,7 +3,7 @@
 $date = getdate();
 
 echo "Thứ: ".$date['weekday']."<hr>";
-echo "Ngày: ".$date['mday']."<hr>";
+echo "Ngày: ".$date['day']."<hr>";
 echo "Tháng: ".$date['mon']."<hr>";
 echo "Năm: ".$date['year']."<hr>";
 echo "Giờ: ".$date['hours']."<hr>";
@@ -17,7 +17,7 @@ echo "Giây: ".$date['seconds']."<hr>";
 $date = getdate(104458600);
 
 echo "Thứ: ".$date['weekday']."<hr>";
-echo "Ngày: ".$date['mday']."<hr>";
+echo "Ngày: ".$date['day']."<hr>";
 echo "Tháng: ".$date['mon']."<hr>";
 echo "Năm: ".$date['year']."<hr>";
 echo "Giờ: ".$date['hours']."<hr>";
