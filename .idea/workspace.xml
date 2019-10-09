@@ -2,10 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eabe330-fc2e-4b73-8561-48ec5464be5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session4/Triangle/Shape.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session4/Triangle/Triangle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session4/Triangle/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session2/gop_mang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session2/minInArray.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/AbstractClass/Animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/AbstractClass/Fruit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/AbtractAndInterfaceTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/Animals/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/Animals/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/Fruit/Apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/Fruit/Orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/InterfaceClass/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface-Colorable/Colorable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface-Colorable/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface-Colorable/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface-comparable/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface-comparable/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface-comparable/ComparableCircle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface-comparable/ComparableCircleMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface_Resizeable/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface_Resizeable/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface_Resizeable/Resizeable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface_Resizeable/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5/Interface_Resizeable/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1/server_time.php" beforeDir="false" afterPath="$PROJECT_DIR$/session1/server_time.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session2/FindTheSmallestValue.php" beforeDir="false" afterPath="$PROJECT_DIR$/session2/FindTheSmallestValue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session3/StopWatch.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/StopWatch.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session3/fan.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/fan.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/session3/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/test.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,6 +56,7 @@
   <component name="ProjectId" id="1Rf0rfaLmT1EH7j3K8hLd5fgQfo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -86,7 +110,12 @@
       <workItem from="1570151216802" duration="5156000" />
       <workItem from="1570171378588" duration="5314000" />
       <workItem from="1570375185762" duration="7423000" />
-      <workItem from="1570410222470" duration="18684000" />
+      <workItem from="1570410222470" duration="19669000" />
+      <workItem from="1570497466344" duration="2079000" />
+      <workItem from="1570499925051" duration="10428000" />
+      <workItem from="1570525933778" duration="43000" />
+      <workItem from="1570525988278" duration="4823000" />
+      <workItem from="1570583078261" duration="3918000" />
     </task>
     <servers />
   </component>

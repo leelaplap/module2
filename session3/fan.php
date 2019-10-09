@@ -16,7 +16,7 @@ class Fan
     }
 
 
-    private function getSpeed()
+    public function getSpeed()
     {
         if ($this->speed == 1) {
             return "SLOW";
@@ -45,3 +45,4 @@ class Fan
 
 $fan1 = new Fan(2, true, 5, "green");
 $fan1->toString();
+

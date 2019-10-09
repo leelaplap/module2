@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1>
-    <?php echo date('\B\â\y \g\i\ờ \l\à Y-m-d H:i:sa'); ?>
+    <?php echo date('\B\â\y \g\i\ờ \l\à Y/m-d h:i:sa'); ?>
 </h1>
 </body>
 </html>

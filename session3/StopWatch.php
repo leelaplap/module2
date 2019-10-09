@@ -23,27 +23,31 @@ class StopWatch
 
     function startTime()
     {
-        $this->startTime = microtime();
+        $this->startTime = round(microtime(true) * 1000);
     }
 
     function stopTime()
     {
-        $this->endTime = microtime();
+        $this->endTime = round(microtime(true) * 1000);
     }
 
     function getElapsedTime()
     {
-        echo $this->stopTime() - $this->startTime();
+        return $this->endTime - $this->startTime;
     }
 }
 
 $stopWatch = new StopWatch();
 $number = [];
-for ($i = 0; $i < 10000; $i++) {
-    $number[$i] = rand(1, 10000);
+for ($i = 0; $i < 100000; $i++) {
+    $number[$i] = rand(1, 100000);
 }
 
 $stopWatch->startTime();
+echo $stopWatch->get_startTime();
+echo "<br>";
 sort($number);
 $stopWatch->stopTime();
-$stopWatch->getElapsedTime();
+echo $stopWatch->get_endTime();
+echo "<br>";
+echo $stopWatch->getElapsedTime();
