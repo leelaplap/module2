@@ -25,5 +25,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <?php echo $vietnameseMoney;
 ?>
+
 </body>
 </html>

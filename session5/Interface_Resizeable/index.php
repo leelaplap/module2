@@ -28,4 +28,9 @@ $square->resize();
 echo $square->display();
 echo "<br>";
 
+$name = [];
+array_push($name,$circle,$rectangle,$square);
+print_r("<pre>");
+print_r($name);
+print_r("</pre>");
 ?>

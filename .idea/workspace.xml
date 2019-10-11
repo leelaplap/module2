@@ -2,34 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eabe330-fc2e-4b73-8561-48ec5464be5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session2/gop_mang.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2/minInArray.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/AbstractClass/Animal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/AbstractClass/Fruit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/AbtractAndInterfaceTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/Animals/Chicken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/Animals/Tiger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/Fruit/Apple.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/Fruit/Orange.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Animal_and_interface_edible/InterfaceClass/Edible.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface-Colorable/Colorable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface-Colorable/Square.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface-Colorable/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface-comparable/Circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface-comparable/Comparable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface-comparable/ComparableCircle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface-comparable/ComparableCircleMain.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface_Resizeable/Circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface_Resizeable/Rectangle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface_Resizeable/Resizeable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface_Resizeable/Square.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session5/Interface_Resizeable/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session1/server_time.php" beforeDir="false" afterPath="$PROJECT_DIR$/session1/server_time.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session2/FindTheSmallestValue.php" beforeDir="false" afterPath="$PROJECT_DIR$/session2/FindTheSmallestValue.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session3/StopWatch.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/StopWatch.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session3/fan.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/fan.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session3/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/session3/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagerStudent/Student.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagerStudent/StudentManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagerStudent/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagerStudent/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagerStudent/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session 6/ArrayList.php" beforeDir="false" afterPath="$PROJECT_DIR$/session 6/ArrayList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session 6/LinkList/LinkList.php" beforeDir="false" afterPath="$PROJECT_DIR$/session 6/LinkList/LinkList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session 6/LinkList/LinkedListMain.php" beforeDir="false" afterPath="$PROJECT_DIR$/session 6/LinkList/LinkedListMain.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session 6/LinkList/Node.php" beforeDir="false" afterPath="$PROJECT_DIR$/session 6/LinkList/Node.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session 6/Node.php" beforeDir="false" afterPath="$PROJECT_DIR$/session 6/Node.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1/change_the_money.php" beforeDir="false" afterPath="$PROJECT_DIR$/session1/change_the_money.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/studentManager/Student.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/studentManager/Student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/studentManager/StudentManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/studentManager/StudentManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/studentManager/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/studentManager/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/studentManager/add_student.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/studentManager/add_student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/studentManager/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/studentManager/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/studentManager/display.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/studentManager/display.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/studentManager/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/studentManager/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/studentManager/functionEdit.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/studentManager/functionEdit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session4/studentManager/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/session4/studentManager/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session5/Interface_Resizeable/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/session5/Interface_Resizeable/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +53,15 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\codegym_module2\ManagerStudent" />
+      <recent name="C:\xampp\htdocs\codegym_module2\session 6\LinkList" />
       <recent name="C:\xampp\htdocs\codegym_module2\session3\Rectangle" />
     </key>
   </component>
@@ -91,6 +87,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SearchEverywhereConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="TopHitSEContributor" />
+      <filtered-out-file-type name="RecentFilesSEContributor" />
+      <filtered-out-file-type name="ClassSearchEverywhereContributor" />
+      <filtered-out-file-type name="FileSearchEverywhereContributor" />
+      <filtered-out-file-type name="SymbolSearchEverywhereContributor" />
+      <filtered-out-file-type name="RunConfigurationsSEContributor" />
+      <filtered-out-file-type name="ActionSearchEverywhereContributor" />
+      <filtered-out-file-type name="YAMLKeysSearchEverywhereContributor" />
+    </file-type-list>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -115,7 +123,10 @@
       <workItem from="1570499925051" duration="10428000" />
       <workItem from="1570525933778" duration="43000" />
       <workItem from="1570525988278" duration="4823000" />
-      <workItem from="1570583078261" duration="3918000" />
+      <workItem from="1570583078261" duration="12294000" />
+      <workItem from="1570670844763" duration="15478000" />
+      <workItem from="1570704472221" duration="285000" />
+      <workItem from="1570721958885" duration="4557000" />
     </task>
     <servers />
   </component>
